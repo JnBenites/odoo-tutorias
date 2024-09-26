@@ -1,0 +1,8 @@
+    ├── __init__.py
+    ├── __manifest__.py
+    ├── models/
+    │   ├── __init__.py
+    │   └── tutorias.py
+    └── security/
+        ├── ir.model.access.csv
+        └── tutorias_security.xml

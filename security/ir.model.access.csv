@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_carrera_user,access.carrera.user,model_tutorias_carrera,base.group_user,1,1,1,1
+access_ciclo_user,access.ciclo.user,model_tutorias_ciclo,base.group_user,1,1,1,1
+access_docente_user,access.docente.user,model_tutorias_docente,base.group_user,1,1,1,1
+access_estudiante_user,access.estudiante.user,model_tutorias_estudiante,base.group_user,1,1,1,1
